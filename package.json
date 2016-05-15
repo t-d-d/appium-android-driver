@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "adm-zip": "^0.4.7",
-    "appium-adb": "^2.5.0",
+    "appium-adb": "t-d-d/appium-adb#master",
     "appium-android-bootstrap": "^2.6.0",
     "appium-android-ime": "^2.0.0",
     "appium-base-driver": "^1.4.1",
